@@ -9,3 +9,8 @@ In these dashboards, I tried to explain:
 - how the timestamp is related to price of those rented properties?
 
 and more explanations are in the visualizations.
+
+
+The dashboard links on tableau public:
+- 1st Dashboard: https://lnkd.in/ddhpjChr
+- 2nd Dashboard: https://lnkd.in/dgcRFaGp
