@@ -1,4 +1,4 @@
-# Tableau-Dashboards
+# Airbnb Tableau Dashboard
 
 
 I worked here on data related to Airbnb in New York, an online marketplace that connects people who want to rent out their homes with people who are looking for accommodations in specific locales.
